@@ -3,7 +3,7 @@
 Kouta murah doumpeng cell
 */
 echo @color("white","───────────────────────────────────────────────\n");
-echo @color("green","                 TOOLS DOR TRI                 \n");
+echo @color("green","          KOUTA MURAH DOUMPENG CELL            \n");
 echo @color("white","───────────────────────────────────────────────\n");
 echo @color('purple', "Masukkan Nomor Tri \t\t: ");
 $nomor = trim(fgets(STDIN));
